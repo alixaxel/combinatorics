@@ -1,2 +1,3 @@
 # combinatorics
-Combinatorics package for Go
+
+Efficient Combinatorics package for Go
